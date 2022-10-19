@@ -1,1 +1,8 @@
-
+.header-flex {
+    display: flex;
+  }
+  .header-links {
+    display: inline;
+    font-size: 8px;
+    padding: 1px;
+  }
