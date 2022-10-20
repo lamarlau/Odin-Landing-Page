@@ -1,6 +1,9 @@
 .header-flex {
     display: flex;
   }
+.div-header {
+  flex: 1;
+}
   .header-links {
     display: inline;
     font-size: 8px;
